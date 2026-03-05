@@ -67,8 +67,11 @@ Each instance is provided as a plain text file containing:
 •	Gender preference matrix
 
 •	Continuity of care score matrix
+
 •	Travel time matrix
+
 •	Synchronization requirements
+
 Rows correspond to caregivers, and columns correspond to nodes whenever matrices are used.
 
 Origin of the Base Data
